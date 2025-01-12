@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<botiga>
+    <producte codi="producte1">
+        <nom>Apple iPhone 16 Pro Max</nom>
+        <descripcio>El diseño del iPhone 16 cuenta con una carcasa en aluminio de calidad aeroespacial y una parte trasera de vidrio tintado en masa tan resistente como irresistible.</descripcio>
+        <preu>1419,00€</preu>
+        <categoria>Smatphones</categoria>
+        <disponibilitat>En stock</disponibilitat>
+        <imatge>img/iphone.jpeg</imatge>
+    </producte>
+    <producte codi="producte2">
+        <nom>Nintendo Switch</nom>
+        <descripcio>Disfruta de los juegos en el formato de la consola Nintendo Switch en color azul y rojo neón, pensada para el hogar con la diferencia de ser también portátil para llevarte tus partidas a todas partes. La innovación en el formato del diseño y su gran flexibilidad te alucinará.</descripcio>
+        <preu>299,00€</preu>
+        <categoria>Consolas</categoria>
+        <disponibilitat>Esgotat</disponibilitat>
+        <imatge>img/nintendo.jpeg</imatge>
+    </producte>
+</botiga>
+<!--Dins de l'etiqueta "botiga" hi han diferents atributs dobre els productes, com ara el nom, la disponibilitat, la descripcio, etc...
+Cada producte te una imatge asociada-->
