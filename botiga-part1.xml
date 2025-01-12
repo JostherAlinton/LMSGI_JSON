@@ -17,5 +17,6 @@
         <imatge>img/nintendo.jpeg</imatge>
     </producte>
 </botiga>
-<!--Dins de l'etiqueta "botiga" hi han diferents atributs dobre els productes, com ara el nom, la disponibilitat, la descripcio, etc...
+<!--Dins de l'etiqueta "botiga" hi han diferents elements dins de l'element pare "botiga", com ara el nom, la disponibilitat, la descripcio, etc...
+Aquets elements tenen atributs sobre els productes.
 Cada producte te una imatge asociada-->

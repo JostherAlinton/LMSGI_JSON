@@ -1,0 +1,75 @@
+{
+    "lista_pokemon": [
+      {
+        "id": 1,
+        "nombre": "Bulbasaur",
+        "tipos": ["Planta", "Veneno"],
+        "peso": "6,9 kg",
+        "altura": "0,7 m",
+        "estadisticas": {
+          "velocidad": 3,
+          "fortaleza": 3,
+          "precisión": 4,
+          "resistencia": 4
+        },
+        "movimientos": [
+          {
+            "nombre": "Latigazo",
+            "descripcion": "Golpea al oponente con un hierbajo.",
+            "potencia": 45,
+            "contacto": true
+          },
+          {
+            "nombre": "Hoja Afilada",
+            "descripcion": "Corta al oponente con hojas afiladas.",
+            "potencia": 55,
+            "contacto": false
+          }
+        ],
+        "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/4/43/latest/20190406170624/Bulbasaur.png",
+        "evoluciones": [
+          {
+            "id": 2,
+            "nombre": "Ivysaur",
+            "nivel_necesario": 16
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "nombre": "Charmander",
+        "tipos": ["Fuego"],
+        "peso": "8,5 kg",
+        "altura": "0,6 m",
+        "estadisticas": {
+          "velocidad": 4,
+          "fortaleza": 4,
+          "precisión": 3,
+          "resistencia": 3
+        },
+        "movimientos": [
+          {
+            "nombre": "Llamarada",
+            "descripcion": "Lanza una poderosa llama al enemigo.",
+            "potencia": 60,
+            "contacto": false
+          },
+          {
+            "nombre": "Arañazo",
+            "descripcion": "Rasguña al oponente con garras afiladas.",
+            "potencia": 40,
+            "contacto": true
+          }
+        ],
+        "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/5/56/latest/20200307023245/Charmander.png",
+        "evoluciones": [
+          {
+            "id": 5,
+            "nombre": "Charmeleon",
+            "nivel_necesario": 16
+          }
+        ]
+      }
+    ]
+  }
+  
